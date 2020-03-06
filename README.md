@@ -1,6 +1,6 @@
 # Mega-Ozma-Bros
 A Super Mario Clone - CS50 Game Development<br>
-https://imgur.com/a/hChVwFE
+https://imgur.com/a/hChVwFE<br>
 Assignment Goals from CS50<br>
 Program it such that when the player is dropped into the level, they’re always done so above solid ground.<br>
 
